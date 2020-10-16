@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **franneck94/franneck94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ### 💼 Where i am currently working at/as
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke)
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com)
+- [Machine Learning Engineer for ADAS at ZF](https://www.zf.com/mobile/en/homepage/homepage.html)
+- [Instructor at Udemy](https://www.udemy.com/user/jan-schaffranek/)
 
 ### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
+-   🚀
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
+- [Udemy](https://www.udemy.com/user/jan-schaffranek/) 😏
+- [YouTube](https://www.youtube.com/channel/UCVB-cOn8vtlU4RUbcua1ycQ) 😎
+- [LinkedIn](https://www.linkedin.com/in/jan-schaffranek/) 👨💼
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=franneck94&show_icons=true)
+![Franneck's Github Stats](https://github-readme-stats.vercel.app/api?username=franneck94&show_icons=true)
