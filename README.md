@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - [Instructor at Udemy](https://www.udemy.com/user/jan-schaffranek/)
 
 ### 💻 What i am currently/done working on
--   🚀
+-  Extending the TensorFlow Udemy Course 🚀
 
 ### 📫 Where to find me
 - [Udemy](https://www.udemy.com/user/jan-schaffranek/) 😏
