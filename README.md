@@ -4,6 +4,6 @@
 - [Coding Videos on YouTube](https://www.youtube.com/channel/UCVB-cOn8vtlU4RUbcua1ycQ) 😎
 
 ### 💻 What i am currently/done working on
--  Extending the TensorFlow Udemy Course 🚀
+-  Updating my Udemy Course 🚀
 
 ![Franneck's Github Stats](https://github-readme-stats.vercel.app/api?username=franneck94&show_icons=true)
