@@ -6,4 +6,4 @@
 ### 💻 What i am currently working on
 -  [C/C++ Runner for VSCode](https://github.com/franneck94/Vscode-C-Cpp-Runner) 🚀
 
-![Franneck's Github Stats](https://github-readme-stats.vercel.app/api?username=franneck94&show_icons=true)
+![Franneck's Github Stats](https://github-readme-stats.vercel.app/api?username=franneck94&show_icons=true&theme=prussian)
