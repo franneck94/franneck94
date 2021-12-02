@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### 📊 Github Stats
+### 💹 Github Stats
 
 <div>
   <a href="https://github.com/franneck94">
