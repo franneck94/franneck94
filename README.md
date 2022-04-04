@@ -1,6 +1,6 @@
 ### 🧐 More About Me:
 
-- [Machine Learning Engineer for ADAS at ZF](https://www.zf.com/mobile/en/homepage/homepage.html)
+- [Machine Learning Engineer for ADAS at ZF](https://www.zf.com/mobile/en/technologies/domains/autonomous_driving/autonomous_driving.html)
 - [Instructor at Udemy](https://www.udemy.com/user/jan-schaffranek/)
 - [Coding Tutorials on YouTube](https://www.youtube.com/channel/UCVB-cOn8vtlU4RUbcua1ycQ)
 
