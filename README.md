@@ -7,8 +7,6 @@
 
 -  [C/C++ Runner for VSCode](https://github.com/franneck94/Vscode-C-Cpp-Runner)
 -  [Workspace Formatter for VSCode](https://github.com/franneck94/Vscode-Workspace-Formatter)
--  [Create C/C++ Config for Projects in VSCode](https://github.com/franneck94/Vscode-C-Cpp-Config)
--  [Create Python Config for Projects in VSCode](https://github.com/franneck94/Vscode-Python-Config)
 
 ### 🔨 Languages and Tools:
 
